@@ -1,0 +1,40 @@
+﻿body
+{
+    background-color: lightblue;
+}
+h1{
+    text-align:center;
+    color:black;
+}
+.topnav {
+    background-color: white;
+    overflow: hidden;
+
+}
+h2{
+    color:white;
+    text-align:center;
+    font-size:30px;
+}
+.topnav a {
+        float: left;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        font-size: 17px;
+        text-decoration: none;
+ }
+img {
+    float:left;
+    margin: 10px;
+}
+.jenn {
+    display: flex;
+    flex-direction: row
+   
+}
+p{
+   float:left;
+   font-size:30px;
+}
+
