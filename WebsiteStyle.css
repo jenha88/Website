@@ -35,8 +35,23 @@ img {
 }
 p{
    float:left;
-   font-size:30px;
+   font-size:40px;
 }
-#title{
+#about {
+    color: white;
+}
+#abouttext{
+    text-align:center;
+    font-size:25px;
+}
+#projecttext{
     color:white;
 }
+#skillsettext{
+    color:white;
+}
+#desc{
+    font-size:20px;
+    text-align:center;
+}
+
